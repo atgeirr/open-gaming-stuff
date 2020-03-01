@@ -1,3 +1,7 @@
+The mage generalist wizard tradition is Open Game Content under the
+Open Gaming License version 1.0a, that can be found at
+http://www.opengamingfoundation.org/ogl.html
+
 Wizard tradition: Mage generalist
 ======================
 
