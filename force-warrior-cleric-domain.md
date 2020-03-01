@@ -24,6 +24,14 @@ Cleric Level	Spells
 7th	stoneskin, control water
 9th	dominate person, telekinesis
 
+Cleric Level  | Spells
+---------- |-------------
+ 1st              | shield, charm person
+ 3rd             | detect thoughts, levitate
+ 5th             | clairvoyance, sending
+ 7th             | stoneskin, control water
+ 9th             | dominate person, telekinesis
+
 Bonus Proficiencies
 ----------------
 
