@@ -5,7 +5,7 @@ http://www.opengamingfoundation.org/ogl.html
 Wizard tradition: Mage generalist
 ======================
 
-Level 2: Arcane Prodigy. Learn one additional cantrip.
+Level 2: Arcane Prodigy. Learn one additional cantrip, and one additional spell.
 Level 2: Prodigous Memory. Add 2 to the number of wizard spells you can prepare.
 
 Level 6: Adaptive Recovery. When you use your Arcane Recovery, in
@@ -14,7 +14,7 @@ of prepared spells with different spells from your spellbook. The
 number of spells you can replace is equal to one-third your wizard
 level, rounded down.
 
-Level 10: Improved Arcane Prodigy: Learn one additional cantrip.
+Level 10: Improved Arcane Prodigy: Learn one additional cantrip, and one additional wizard spell of a level you can vast.
 Level 10: Improved Prodigous Memory. Add 2 to the number of wizard
 spells you can prepare. This is cumulative with prodigous memory for a total
 of 4 extra prepared spells.
