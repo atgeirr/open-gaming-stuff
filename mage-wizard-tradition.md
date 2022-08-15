@@ -19,7 +19,6 @@ Level 10: Improved Prodigous Memory. Add 2 to the number of wizard
 spells you can prepare. This is cumulative with prodigous memory for a total
 of 4 extra prepared spells.
 
-Level 14: Archmage. You gain the following abilities:
-  * You may cast any spell in your spellbook even if you have not
+Level 14: Archmage: You may cast any spell in your spellbook even if you have not
     prepared it. You must expend a spell slot as normal. You regain
     this ability after taking a long rest.
